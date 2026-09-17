@@ -1,1 +1,1 @@
-# IS218Test
+# Practice project for Python setup and automated testing.
